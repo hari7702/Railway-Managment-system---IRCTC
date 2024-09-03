@@ -1,0 +1,5 @@
+superuser
+
+username: HARI ANIRUDH
+password: hari1234
+email: harianirudh0@gmail.com
